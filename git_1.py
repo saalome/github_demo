@@ -25,7 +25,16 @@
 #     print("Yes")
 
 
-nums = [1, 2, 3]
-nums.append(4)
-print(nums)
-print(nums[3])
+# nums = [1, 2, 3]
+# nums.append(4)
+# print(nums)
+# print(nums[3])
+
+# nums=[1,2,3,4,5]
+# print(len(nums))
+#
+# What is result of this code?
+letters=['a','b','c']
+letters.append('d')
+print(len(letters))
+
