@@ -34,7 +34,34 @@
 # print(len(nums))
 #
 # What is result of this code?
-letters=['a','b','c']
-letters.append('d')
-print(len(letters))
+# letters=['a','b','c']
+# letters.append('d')
+# print(len(letters))
+
+# words=['Python','fun']
+# index=2
+# words.insert(index,"is")
+# print(words)
+
+# What is the result of this code?
+# nums=[9,8,7,6,5]
+# nums.append(4)
+# nums.insert(2,11)
+# print(nums)
+
+
+letters=['p','q','r','s','p','u']
+print(letters.index('r'))
+print(letters.index('p'))
+print(letters.index('z'))
+
+
+
+
+
+
+
+
+
+
 
